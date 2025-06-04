@@ -8,8 +8,8 @@ It includes sales analysis by region, product category, and profit insights.
 - Excel (Sample Superstore dataset)
 
 ## Dashboard Link
-👉 [View Interactive Dashboard]https://public.tableau.com/app/profile/alyssa.correthers/viz/E-CommercePerformanceDashboard_17490513388380/Dashboard1)
-
+👉 [View Interactive Dashboard] https://public.tableau.com/app/profile/alyssa.correthers/viz/E-CommercePerformanceDashboard_17490513388380/Dashboard1
+![Dashboard Preview](dashboard-preview.png)
 ## Key Insights
 - Top-performing regions by total sales
 - Sales distribution across product categories
